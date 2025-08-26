@@ -1,0 +1,6 @@
+bitbucket-clone/
+venv
+bitbucket_prs.json
+exclude_prs.json
+tokens.env
+transferred_prs.json
